@@ -1,0 +1,27 @@
+{
+  "name": "taules_de_multiplicar",
+  "version": "1.0.0",
+  "description": "Mostrar taules de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "example",
+    "basic"
+  ],
+  "repository":{
+    "type": "git",
+    "url": "git+https://github.com/DaniloEspinosa/project01_node"
+  },
+  "bugs": {
+    "url": "git+https://github.com/DaniloEspinosa/project01_node/issues"
+  },
+  "homepage": "git+https://github.com/DaniloEspinosa/project01_node#readme",
+  "author": "Danilo Espinosa",
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  }
+}
